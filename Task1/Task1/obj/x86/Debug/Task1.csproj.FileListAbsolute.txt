@@ -1,0 +1,5 @@
+C:\Users\ktuser\Desktop\abhamid\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\ktuser\Desktop\abhamid\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\ktuser\Desktop\abhamid\Task1\Task1\obj\x86\Debug\Task1.exe
+C:\Users\ktuser\Desktop\abhamid\Task1\Task1\obj\x86\Debug\Task1.pdb
+C:\Users\ktuser\Desktop\abhamid\Task1\Task1\obj\x86\Debug\Task1.csprojResolveAssemblyReference.cache
